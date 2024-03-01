@@ -1,4 +1,6 @@
 # PowerBI: Analyzing the sales performance
+Written by JamCourage       
+
 **主題類別**            
 Visualization (Microsoft Power BI)                      
 
@@ -19,7 +21,7 @@ Microsoft Power BI
 
 **步驟**            
 1. 建立關聯式資料庫(data model)      
-	(1) 區分lookup table與data table，以主要鍵(primary key)相連建立其關係
+	(1) 區分lookup table與data table，以主要鍵(primary key)相連建立其關係     
 	(2) data model可參考[0_DataModel.png](0_DataModel.png)                        
 	
 2. 各銷售區域利潤分析      
