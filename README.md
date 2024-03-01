@@ -1,2 +1,33 @@
-# PowerBI Analyzing the sales performance
- 利用Power BI創建銷售績效dashboard，並分析財務績效
+# PowerBI: Analyzing the sales performance
+**主題類別**            
+Visualization (Microsoft Power BI)                      
+
+**分析工具**      
+Microsoft Power BI
+
+**專案背景**                
+此專案的數據資料來源為一跨國的運動用品製造公司，資料內容涵蓋各年度銷售主檔、客戶主檔、產品主檔等          
+                
+**主要目標**      
+利用完成：            
+(一) 探索自身價值                    
+(二) 發想創新策略、並導入平衡計分卡(含策略地圖)                                     
+
+**步驟**            
+1. 自我認知      
+	(1) 與青青討論並制定使命、願景、價值觀                 
+	(2) 利用S/O計分卡，分析青青的優勢(S)與機會(O)                        
+	
+2. 發掘痛點      
+	(1) 找出營收下降的原因           
+	(2) 有強烈的淡旺季之分
+	
+3. 發想創新策略--基於痛點、自身優勢與機會出發                        
+
+4. 導入平衡計分卡            
+	(1) 訂定四大構面(學習與成長、內部程序、顧客、財務)之策略性議題與目標             
+	(2) 訂定對應議題目標的績效指標
+	
+5. 分析報告                        
+   【分析報告(團體)】            
+   可參考[Analysis_Report.pptx](Analysis_Report.pptx)               
